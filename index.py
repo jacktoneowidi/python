@@ -7,3 +7,10 @@
 x = int (input('whats x '))
 y = int (input('whats y '))
 print( x + y )
+
+
+
+
+name = input('whats your name? \n').strip().title()
+
+print ('hello , ' +name+ ' have a great day' )
